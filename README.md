@@ -1,4 +1,4 @@
-# phprestapi
+# PHP Rest API
 
 PHP REST API is a web application API with expressive, elegant syntax, for Beginner. 
 
